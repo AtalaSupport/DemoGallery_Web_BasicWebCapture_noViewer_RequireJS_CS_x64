@@ -15,7 +15,7 @@ This demo assumes you have the Atalasoft WingScan Web Scanning SDK installed and
 licensed for WingScan (or you can request a 30 day evaluation when 
 installing/activating)
 
-[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)
+[Download DotImage](https://www.atalasoft.(mailto:sales@atalasoft.com)/BeginDownload/DotImageDownloadPage)
 
 > **NOTE**
 > This current build is based on DotImage 11.5.0.10. You may be able to back down
@@ -44,6 +44,6 @@ We recommend the following if you wish to donload/clone a copy
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64.git BasicWebCapture_noViewer_RequireJS
+git clone https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64.git BasicWebCapture_noViewer_RequireJS
 ```
 
